@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "591671214126",
+    "firebase_url": "https://goride-d896f-default-rtdb.firebaseio.com",
+    "project_id": "goride-d896f",
+    "storage_bucket": "goride-d896f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591671214126:android:2e7fa70f1b0251458e1fbf",
+        "android_client_info": {
+          "package_name": "com.tekup.goride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591671214126-7nhnmcnuhpgoa4f5lk2f2d763fvnf203.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhmqxe0BMH6o1o_ac8mQOPkIyCfNXbK68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591671214126-7nhnmcnuhpgoa4f5lk2f2d763fvnf203.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
